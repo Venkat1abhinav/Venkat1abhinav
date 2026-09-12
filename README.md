@@ -195,14 +195,14 @@ I care less about collecting technologies and more about **actually understandin
 ## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Venkat1abhinav&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat1abhinav&layout=compact&hide_border=true&theme=transparent" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Venkat1abhinav&langs_count=6&theme=radical"
+    alt="Top Languages"
+  />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Venkat1abhinav&theme=transparent&hide_border=true" />
 </p>
-
 ---
 
 ## Elsewhere
