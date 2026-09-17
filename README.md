@@ -10,7 +10,7 @@ from HTTP servers and databases to operating systems and AI systems.
 <p>
   <a href="https://github.com/Venkat1abhinav">GitHub</a>
   ·
-  <a href="https://github.com/owned-dragon">Projects</a>
+  <a href="https://github.com/Venkat1abhinav">Projects</a>
   ·
   <a href="mailto:abhinav123venkat@gmail.com">Email</a>
 </p>
